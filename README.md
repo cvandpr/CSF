@@ -8,9 +8,9 @@ The official PyTorch Implementation of CSF for Image Enhancement
 
 
 
-
 ## Latest
-- `09/27/2024`: Repository is created. Our code will be made publicly available upon acceptance. 
+- `09/29/2024`: Release code and datesets.
+- `09/27/2024`: Repository is created. 
 
 
 ## Method
@@ -23,13 +23,14 @@ Sandstorm images are often plagued by color distortions, reduced contrast, and b
 </details>
 
 
-## Installation
+## Environments
 
-### Environments
+The project is built with Python 3.10, Pytorch 1.13.0 CUDA 11.7
 
-coming soon
-
-### Datasets
+## Datasets
 
 coming soon
+## Acknowledgements
+
+This project is mainly based on [Selective frequency network for image restoration(ICLR2023)]
 
