@@ -34,7 +34,7 @@ Datasets can be found in: https://pan.baidu.com/s/1WrJFPswjfVuCeAfvunNmiw?pwd=cc
 
 This project is mainly based on [Selective frequency network for image restoration(ICLR2023)]
 
-## Contact
+## Contacts
 
 If you have any questions, please contact gzwdavid@163.com.
 
