@@ -25,7 +25,7 @@ Sandstorm images are often plagued by color distortions, reduced contrast, and b
 
 ## Environments
 
-The project is built with Python 3.10, Pytorch 1.13.0 CUDA 11.7
+The project is built with Python 3.10, Pytorch 1.13.0, CUDA 11.7
 
 ## Datasets
 
